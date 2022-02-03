@@ -16,9 +16,10 @@ Source for three simple games for the Textas Instruments TI-89 graphing calclato
   **Controls:** *To fire a shot, enter speed,angle and press ``ENTER``. ``CLEAR`` to regenerate terrain,
   ``ESC`` to exit.*
 
-  
 * **Pong**
 
   My first TI-89 game - two-player Pong. Primitive but playable.
  
-  **Controls:** *First player - ``X`` and ``=``; Second player: ``^`` and &#00F7; *
+  **Controls:** *First player - ``X`` and ``=``; Second player: ``^`` and ``÷``.*
+
+To download the compiled games directly, visit the project site at http://avtanski.net/projects/ti/index.html.
